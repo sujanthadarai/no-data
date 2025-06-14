@@ -40,3 +40,5 @@ class DeleteData(DeleteView):
     model=Detail
     success_url='/generic'
     
+    
+print("kai data haleko xu la mail")
