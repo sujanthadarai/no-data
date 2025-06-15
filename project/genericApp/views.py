@@ -42,3 +42,4 @@ class DeleteData(DeleteView):
     
     
 print("kai data haleko xu la mail")
+print(("sujan branch change"))
